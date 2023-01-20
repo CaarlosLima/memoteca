@@ -1,0 +1,16 @@
+{
+  "pensamentos": [
+    {
+      "conteudo": "Melhorias: Tornar o formulario um componente, criar validação, organizar em pastas.",
+      "autoria": "Dev",
+      "modelo": "modelo1",
+      "id": 1
+    },
+    {
+      "conteudo": "Alterar o projeto para um organizador de ideias, onde será possível cadastrar usuários diferentes, cada usuário poderá criar \"pastas\" e \"sub pastas\" e atribuir os pensamentos dentro delas.",
+      "autoria": "Dev",
+      "modelo": "modelo1",
+      "id": 2
+    }
+  ]
+}
